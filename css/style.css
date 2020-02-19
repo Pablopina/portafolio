@@ -1,0 +1,71 @@
+.gris{
+    background: #F39C12 ;
+}
+a, .nav-link {
+    color: #FFFFFF !important;
+
+
+}
+.navbar{
+    height: 70px;
+    padding: 0;
+}
+.navbar h1{
+   
+    padding: 0;
+    margin: 0;
+    font-size: 3.2em;
+    line-height: 0.8;
+    height: 70px;
+    margin-left: 30px;
+}
+h1{
+    font-size: 3.2em;
+    
+}
+.imagen1{
+    background-image: url(../Assets/Imagen\ principal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 500px;
+    margin-top: 0;
+}
+.yo{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    margin-bottom: 15px;
+}
+.pablo{
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 100px;
+}
+.hr1{
+   border-color: #FFFFFF; 
+   display: block;
+   width: 280px;
+   margin: 0 auto 20px;
+   
+}
+.hr2{
+    border-color: black; 
+    display: block;
+    width: 280px;
+    margin: 0 auto 20px;
+
+}
+h3{
+text-align: center;
+margin-top: 90px;
+margin-left: 90px;
+margin-right: 90px;
+
+}
+.texto1{
+    margin-left: 20px;
+}
+.texto2{
+    margin-right: 20px;
+}
