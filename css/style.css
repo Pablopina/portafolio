@@ -1,10 +1,14 @@
+
 .gris{
-    background: #F39C12 ;
+    background: #660066 ;
 }
-a, .nav-link {
+.nav-link {
     color: #FFFFFF !important;
 
 
+}
+body{
+    font-family: 'Montserrat', sans-serif;
 }
 .navbar{
     height: 70px;
@@ -54,6 +58,7 @@ h1{
     display: block;
     width: 280px;
     margin: 0 auto 20px;
+    padding-bottom: 90px;
 
 }
 h3{
@@ -68,4 +73,43 @@ margin-right: 90px;
 }
 .texto2{
     margin-right: 20px;
+}
+.exp{
+text-align: center;
+}
+.proyecto img{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.carouselExampleIndicators{
+padding-top: 90px;
+}
+.carousel-control-next, .carousel-control-prev {
+    color: black;
+    
+
+}
+h2{
+    text-align: center;
+}
+.sf-co{
+    
+    padding-top: 90px;
+    background: #660066;
+}
+.ut{
+    text-align: center;
+    color: white;
+   
+}
+.hr3{
+    border-color: white; 
+    display: block;
+    width: 280px;
+    margin: 0 auto 20px;
+    padding-bottom: 90px;
+}
+.trabajos div{
+    margin-bottom: 30px;
 }
