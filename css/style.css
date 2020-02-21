@@ -164,6 +164,10 @@ i{
 }
 
 @media only screen and (max-width: 961px) {
-    .ggg {
+    #about {
       display:none;
     }
+    @media only screen and (max-width: 961px) {
+       #mi {
+          display:none;
+        }
