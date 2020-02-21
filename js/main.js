@@ -1,18 +1,19 @@
 $(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-  })
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
-  $(document).ready(function(){
-    $('a[href^="#"]').on('click', function(event) {
+$(document).ready(function () {
+  $('a[href^="#"]').on('click', function (event) {
 
-      var target = $(this.hash);
-  
-      if( target.length ) {
-          event.preventDefault();
-          $('html, body').animate({
-              scrollTop: target.offset().top -80
-          }, 1000);
-      }
-  
+    var target = $(this.hash);
+
+    if (target.length) {
+      event.preventDefault();
+      $('html, body').animate({
+        scrollTop: target.offset().top - 80
+      }, 1000);
+    }
+
   });
-  })
+})
+

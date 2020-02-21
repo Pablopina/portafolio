@@ -2,19 +2,23 @@
 .gris{
     background: #660066 ;
 }
+
 .nav-link {
     color: #FFFFFF !important;
 
 
 }
+
 body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Playfair Display', serif;
 }
+
 .navbar{
     height: 70px;
     padding: 0;
 }
+
 .navbar h1{
    
     padding: 0;
@@ -24,10 +28,12 @@ body{
     height: 70px;
     margin-left: 30px;
 }
+
 h1{
     font-size: 3.2em;
     
 }
+
 .imagen1{
     background-image: url(../Assets/Imagen\ principal.jpg);
     background-size: cover;
@@ -36,13 +42,16 @@ h1{
     max-height: 500px;
     margin-top: 70px;
 }
+
 .yo{
     color: white;
     text-align: center;
     padding-top: 251px;
     margin-bottom: -83px;
     font-family: playfair diplay;
+   
 }
+
 .pablo{
     color: white;
     text-align: center;
@@ -50,6 +59,7 @@ h1{
     padding-bottom: 180px;
     font-family: Playfair Diplay;
 }
+
 .hr1{
    border-color: #FFFFFF; 
    display: block;
@@ -57,14 +67,21 @@ h1{
    margin: 0 auto 20px;
    
 }
+
 .hr2{
     border-color: black; 
     display: block;
     width: 280px;
-    margin: 0 auto 20px;
-    padding-bottom: 90px;
-
+    margin: 0 auto 0px;
 }
+
+.hr4{
+    border-color: black; 
+    display: block;
+    width: 280px;
+    margin: 0 auto 50px;
+}
+   
 h3{
 text-align: center;
 margin-top: 90px;
@@ -72,43 +89,50 @@ margin-left: 90px;
 margin-right: 90px;
 
 }
+
 .texto1{
     margin-left: 100px;
     margin-right: 100px;
 }
+
 .texto2{
     margin-right: 20px;
 }
+
 .exp{
 text-align: center;
 font-family: playfair diplay;
 font-size: 2.5em;
 }
+
 .proyecto img{
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
-    padding-bottom: 40px;
+    
 }
-.carouselExampleIndicators{
-padding-top: 90px;
-padding-bottom: 90px;
-}
+
 .carousel-control-next, .carousel-control-prev {
     color: black;
-    
-
+ 
 }
+
+.carousel.pointer-event {
+    margin-bottom: 55px;
+}
+
 h2{
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
     font-family: playfair diplay extra-bold 800;
+    margin-top: -130px;
 }
 .sf-co{
     
     padding-top: 80px;
     background: #660066;
 }
+
 .ut{
     text-align: center;
     color: white;
@@ -123,14 +147,17 @@ h2{
     margin: 0 auto 20px;
     padding-bottom: 90px;
 }
+
 .trabajos div{
     margin-bottom: 30px;
 }
+
 .form-group{
     margin-bottom: 2rem;
     margin-right: 110px;
     margin-left: 110px;
 }
+
 .contacto{
     text-align: center;
     color: black;
@@ -140,25 +167,23 @@ h2{
     padding-top: 90px;
     padding-bottom: 90px;
 }
+
 .btn{
     margin-left: 110px;
     margin-bottom: 90px;
-    
-
 
 }
-
 
 footer{
     background:#660066 ;
     height: 90px;
 }
+
 .ri{
     padding-top: 10px;
 }
 
-i{
-  
+i{ 
   margin:20px;
   
 }
@@ -167,7 +192,8 @@ i{
     #about {
       display:none;
     }
-    @media only screen and (max-width: 961px) {
-       #mi {
-          display:none;
-        }
+
+@media only screen and (max-width: 961px) {
+    #mi {
+        display:none;
+     }
