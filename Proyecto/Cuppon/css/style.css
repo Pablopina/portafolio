@@ -1,0 +1,29 @@
+.green{
+    background: #28A745;
+}
+img{
+height: 30px;
+
+}
+.pr-20px{
+    padding-right: 20px !important;
+}
+.pl-20px{
+    padding-left: 20px !important;
+}
+.card-header{
+    padding-top: 10px;
+}
+
+.bg-contacto{
+    background: #28A745;
+    
+}
+.titulo{
+text-align: center;
+
+}
+
+.titulo .h1{
+font-size: 24px;
+}

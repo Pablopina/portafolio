@@ -1,0 +1,109 @@
+.texto1{
+    font-size: 12px;
+}
+
+.gris{
+    background: #373A3C;
+}
+a, .nav-link {
+    color: #FFFFFF !important;
+
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+}
+.h1{
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+}
+.img-fluid{
+height: 435px;
+padding-top: 121px;
+width: 100%;
+}
+.pizza{
+    font-family: 'Cabin', sans-serif;
+    padding-top: 121px;
+    text-align: left;
+    font-size: 40px;
+
+
+}
+
+.min{
+    font-size: 20px;
+}
+
+.bg-pago{
+    background: #DC3545;
+}
+footer{
+background: #373A3C;
+text-align: center;
+height: 80px;
+
+}
+.segundo-footer{
+    text-align: center;
+    height: 500px;
+   
+}
+@media only screen and (max-width: 961px) {
+    #carouselExampleIndicators {
+      display:none;
+    }
+
+
+}
+
+
+
+hr{
+    border-color: black;
+
+    
+}
+
+.container2{
+    padding-bottom: 60px;
+    
+}
+#carouselExampleIndicators{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left: 77px;
+    margin-right: 77px;
+}
+
+.hola{
+padding-top: 40px;
+
+}
+.ingh{
+    border-bottom: 1px solid;
+    display: inline-block;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+}
+
+.carousel-indicators{
+    bottom: -50px;
+}
+.carousel-indicators li{
+    background-color: black;
+   width: 5px;
+   height: 5px;
+border-radius: 50%;
+}
+h2{
+    text-align: center;
+}
+.ri{
+    padding-top: 20px;
+}
+
+@media only screen and (max-width: 961px) {
+    .ggg {
+      display:none;
+    }
